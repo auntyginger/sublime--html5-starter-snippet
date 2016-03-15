@@ -24,7 +24,7 @@
   <body>
 
     <script src="js/${12:plugin}.js"></script>
-    <script src="js/${12:main}.js"></script>
+    <script src="js/${13:main}.js"></script>
   </body>
 </html>
   ]]></content>
