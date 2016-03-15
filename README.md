@@ -10,7 +10,7 @@ A snippet created for html5 starter kit in sublime
 7. Open up a new file in sublime.
 8. Ctrl + Shift + P > select html syntax.
 9. type keyword and press Tab. // e.g. type "html5", Tab
-10. TADA!
+10. TADA! now the text wrapped in braces and be accessed easily with just a tab!
 
 This snippet is for consideration. Please feel free to work on it or let me know if there are common codes that i miss out.
 I have yet to work on a build process yet. Hence, this is the best that I have as of now. Happy Coding! :)
